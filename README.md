@@ -33,6 +33,4 @@ If you would like to contribute to this project, please follow these guidelines:
 3. Make your modifications and test them thoroughly.
 4. Submit a pull request with a clear description of your changes.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
